@@ -10,5 +10,5 @@ HW4
 https://colab.research.google.com/drive/1UiFT_8LxO-m8plOR36dgTLsZ-1rzHXbC?hl=zh-tw  
 HW  
 https://colab.research.google.com/drive/14JsIhWT6QnkRvVySf52bxPA7Q6IMgPwD?hl=zh-tw  
-B0829049_期中訂正  
+期中訂正  
 https://colab.research.google.com/drive/1HPNdpmVS7EeFjRXTnJst1igOU7oRaYRo?hl=zh-tw  
